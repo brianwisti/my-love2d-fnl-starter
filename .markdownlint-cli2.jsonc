@@ -1,0 +1,8 @@
+// Rules for checking my Markdown files.
+{
+  "gitignore": true,
+  "globs": [
+    "*.md",
+    "./**/*.md",
+  ],
+}
