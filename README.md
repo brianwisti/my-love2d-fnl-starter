@@ -29,10 +29,10 @@ What I use while learning how to write games in [LÖVE][love2d] with the
 
 ## Using this starter kit
 
-Easiest is to grab your own copy without git history baggage, using `degit`.
+Easiest is to grab your own copy without git history baggage, using `gitpick`.
 
 ```sh
-npx degit git@github.com:brianwisti/my-love2d-fnl-starter.git mygame
+npx gitpick git@github.com:brianwisti/my-love2d-fnl-starter.git mygame
 ```
 
 Go into your new game folder. Try it out. Making your own game starts in
